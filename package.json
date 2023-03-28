@@ -1,8 +1,8 @@
 {
     "version": "0.0.0",
-    "name": "TODO_MODULE_NAME",
-    "repository": "TODO_USERNAME/TODO_REPO",
-    "description": "TODO_MODULE_DESCRIPTION",
+    "name": "timu",
+    "repository": "jdeurt/timu",
+    "description": "Simple time utilities",
     "unpkg": "dist/index.min.js",
     "module": "dist/index.mjs",
     "main": "dist/index.js",
@@ -45,9 +45,10 @@
         ]
     },
     "keywords": [
-        "TODO",
-        "module",
-        "keywords"
+        "timu",
+        "time",
+        "utils",
+        "utilities"
     ],
     "devDependencies": {
         "@fast-check/ava": "^1.1.3",
